@@ -1,0 +1,94 @@
+/* .blank{
+    background-color: lightgreen;
+} */
+
+ body{
+     /* background-color: rgba(224, 255, 255, 0.274);  */
+     margin: 0;
+}
+
+nav{
+    /* display: flex; */
+
+    background-color: lightgrey;
+}
+
+li{
+    list-style-type: none;
+    padding: 0px  35px;
+    font-size: 25px;
+    color: white;
+}
+
+.navbar{
+    /* flex-wrap: nowrap; */
+    padding: 0px 25px;
+}
+
+.container-fluid{
+    display: block;
+}
+.navbar bg-light{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.summary{
+    border: 1px solid lightgrey;
+    padding: 15px;
+    box-shadow: 0px 0px 2px 2px lightblue;
+}
+
+/* .summary p{
+    color: blue;
+} */
+
+.mx-5{
+    text-align: center;
+    border: 1px solid lightgrey;
+    outline: none;
+    box-shadow: 0px 0px 2px 2px rgba(42, 94, 173, 0.747);
+    margin: 0;
+}
+.preview_para{
+    text-align: justify;
+    margin: 0;
+    /* color: green; */
+    /* margin: ; */
+}
+
+.enablebtncontainer{
+    position: relative;
+    margin: 0;
+}
+
+#enablebtn{
+    position: fixed;
+    bottom:  0%;
+    background-color: black;
+    border: none;
+}
+
+
+
+/* .myinput{
+    border: 1px solid lightgrey;
+    outline: none;
+    border-radius: 5px;
+    
+}
+.myinput:hover{
+    box-shadow: 0px 0px 1px 3px lightblue;
+    border: none;
+    outline: none;
+} */
+
+/* li:hover{
+    background-color: black;
+    color: red;
+} */
+
+/* .para{
+    text-align: justify;
+    margin: 20px 50px;
+} */
